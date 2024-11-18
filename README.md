@@ -15,7 +15,7 @@ Local Development environment:
 Objectives:
 1. Transforming the dataset to make it useful for binary classification by introducing the pass/fail value of let's say 60% - kNN Algorith
 2. Transforming the dataset to make it multiclassification by introducing the various grades - kNN Algorith
-3. Use the dataset as is for stocastic regression
+3. Use the dataset as is for Linear Stochastic regression
 4. Use an algorithm for prediction - MLP Classifier - See how many second best predictions are actually correct and work out the ratio
 
 Project Structure:
