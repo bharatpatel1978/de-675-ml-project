@@ -11,6 +11,7 @@ Local Development environment:
 5.  Install jupyterlab - https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html
 6.  Install jupyterlab-github extension - https://github.com/jupyterlab/jupyterlab-github
 5.	Ensure we have text editor like notepad or notepad++ or anything specific your OS like TextEdit or BBEdit, Sublime for Mac. We can get VS Code as well as that is available in both Mac and Windows OS’s.
+6.	Packages that need to be installed - Pandas, numpy, seaborn, skikit-learn, Kagglehub. We installed them via anaconda. 
 
 Objectives:
 1. Transforming the dataset to make it useful for binary classification by introducing the pass/fail value of let's say 60% - kNN Algorith
