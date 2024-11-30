@@ -1,6 +1,8 @@
 # de-675-ml-project
 ML Project for DS 675 - ML
 
+Report: https://docs.google.com/document/d/1eQEKKsYYbIXy29tR12bsVBT_MJkphzyCEWct_OFB5VQ/edit?usp=sharing
+
 Prerequisites:
 Ensure Local Development environment is properly setup and that objectives are clearly stated
 Local Development environment:
