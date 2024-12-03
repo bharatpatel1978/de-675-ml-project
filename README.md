@@ -17,12 +17,16 @@ Local Development environment:
 
 Objectives:
 1. Transforming the dataset to make it useful for binary classification by introducing the pass/fail value of let's say 60% - kNN Algorith
-2. Transforming the dataset to make it multiclassification by introducing the various grades - kNN Algorith
+2. Transforming the dataset to make it multiclassification by introducing the various grades - kNN Algorith - Classifications [0 to 59.99 - F Grade, 60 to 69.99 - D Grade, 70 to 79.99 - C Grade, 80 to 89.99 - B Grade, 90 and above A Grade]
 3. Use the dataset as is for Linear Stochastic regression
-4. Use an algorithm for prediction - MLP Classifier - See how many second best predictions are actually correct and work out the ratio
+4. Multi Classification by Random Forest
+5. Prediction by Multilayer Perceptron - MLP Classifier
+6. Establish key features
 
 Technical Difficulties:
 1. Jupyter Lab failed to launch as Jupyter Server could not start due to port denial. Opened the command prompt in Administrator mode to run the command - net stop winnat. Then ran the command - net start winnat. That seemed to fix the port usage denial issue  
+
+Learnings:
 
 
 
