@@ -24,7 +24,6 @@ Objectives:
 Technical Difficulties:
 1. Jupyter Lab failed to launch as Jupyter Server could not start due to port denial. Opened the command prompt in Administrator mode to run the command - net stop winnat. Then ran the command - net start winnat. That seemed to fix the port usage denial issue  
 
-Project Structure:
 
 
 
